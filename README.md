@@ -30,14 +30,6 @@ I architect systems specialized in overcoming data acquisition barriers through 
 
 ---
 
-### 📈 Featured Work
-
-*   **Algorithmic Trading:** End-to-end ML pipeline for time-series forecasting (50% simulated return in backtesting).
-*   **BridgeAssistant:** Conversational AI agent for network performance testing built with LangChain and GPT-4.
-*   **Salespeed Pipeline:** Scalable GDO monitoring system utilizing reverse-engineered private APIs.
-
----
-
 ### 📬 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-rimoldi-58357a262)
